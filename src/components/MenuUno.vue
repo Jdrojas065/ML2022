@@ -6,6 +6,7 @@
       height="400"
     >
       <v-app-bar
+      app
         color="prymary"
         dark
       >
